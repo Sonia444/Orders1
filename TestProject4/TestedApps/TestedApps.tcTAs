@@ -7,10 +7,10 @@
 		<child key="{B0C39F26-45E9-4BB4-8D6A-37BA0E4252AA}">
 			<config nodeName="Orders" autorunOnRecording="True" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="True">
 				<runModeParams activeRunMode="Simple">
-					<param name="RunAs" parameters="" workFolder="" userName="" password="" domain="" />
-					<param name="Profile" parameters="" workFolder="" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
-					<param name="Debug" parameters="" workFolder="" />
-					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="" />
+					<param name="RunAs" parameters="" workFolder="C:\Parimi\Repository\Orders1\TestProject4\TestedApps" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Parimi\Repository\Orders1\TestProject4\TestedApps" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Parimi\Repository\Orders1\TestProject4\TestedApps" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Parimi\Repository\Orders1\TestProject4\TestedApps\" parameters="" workFolder="C:\Parimi\Repository\Orders1\TestProject4\TestedApps" />
 				</runModeParams>
 			</config>
 			<testData />
